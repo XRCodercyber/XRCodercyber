@@ -11,5 +11,7 @@
 💬 Ask me about Flutter and Dart
 
 Me in social media:
-- Instagram:
 - <a href="https://www.youtube.com/@XrCoder">Youtube</a>
+- <a href="https://www.instagram.com/kholmatov_00807/">Instagram</a>
+- <a href="https://t.me/xr_coder">Telegram account</a>
+- <a href="https://t.me/xrcoder">Telegram channel</a>
